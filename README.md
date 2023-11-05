@@ -1,6 +1,6 @@
 ## IOL API Fetcher
 
-This script is designed to fetch stock quotes using the Invertir Online (IOL) API (https://api.invertironline.com) and upload them into a Google Sheet using Google Apps Script.
+This script is designed to fetch stock quotes every minute using the Invertir Online (IOL) API (https://api.invertironline.com) and upload them into a Google Sheet using Google Apps Script.
 
 ### Usage
 
